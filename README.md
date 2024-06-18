@@ -38,10 +38,10 @@
 
 ## 五、游戏截图
 
-![image](https://user-images.githubusercontent.com/72770576/161939880-3ecf3a5e-9cb9-4dce-82e0-65a3b074d667.png)
+![image](https://github.com/mao888/gobang/blob/main/img.assets/img-1.png)
 
 
-![image](https://user-images.githubusercontent.com/72770576/161939919-035f144d-6731-4fa6-afc7-9f073677f642.png)
+![image](https://github.com/mao888/gobang/blob/main/img.assets/img-2.png)
 
 ## 六、命令
 使用 lessc 命令行工具来编译 Less 文件
